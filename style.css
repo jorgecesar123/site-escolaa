@@ -3,6 +3,9 @@
     padding: 0;
 
 }
+body{
+    font-family: 'Gasoek One', sans-serif;
+}
 
 .cabeçalho {
     background-color: #E10A0A;
@@ -42,4 +45,16 @@ width: 35%;
 }
 .escola-titulo{
     padding: 24px 0;
+}
+.estudante-imagem{
+    width: 120px ;
+
+}
+
+.estudante-icone{
+    width: 24px; ;
+}
+
+.estudante-div{
+    text-align: center;
 }
