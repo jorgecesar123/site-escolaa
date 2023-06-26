@@ -5,10 +5,11 @@
 }
 body{
     font-family: 'Gasoek One', sans-serif;
+    background-color:#021D63;
 }
 
 .cabeçalho {
-    background-color: #E10A0A;
+    background-color:#E10A0A ;
     color:white;
     display: flex;
     justify-content: space-around;
@@ -40,36 +41,36 @@ body{
 }
 
 .escola-div-conteudo{
-width: 35%;
-
-}
-.escola-titulo{
-    padding: 24px 0;
-}
-
-.estudante-imagem{
-    width: 120px ;
-
-}
-
-.estudante-imagem2{
-    width: 120px ;
-}
-
-.estudante-icone{
-    width: 24px; ;
-}
-
-.estudante-div{
-    text-align: center;
-}
-
-.estudante-título{
+    width: 35%;
+    
+    }
+    .escola-titulo{
+        padding: 24px 0;
+    }
+    
+    .estudante-imagem{
+        width: 120px ;
+    
+    }
+    
+    .estudante-icone{
+        width: 24px; ;
+    }
+    
+    .estudante-div{
+        text-align: center;
+    }
+    
+    .estudante-div{
+        text-align: center;
+    }
+    
+    .estudante-título{
     text-align: center;
     padding: 50px 0;
-}
-
-.estudantes-todos{
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-}
+    }
+    
+    .estudantes-todos{
+        display: grid;
+        grid-template-columns: 20% 50% 60% 50% 20%;
+    }
