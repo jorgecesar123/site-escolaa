@@ -46,9 +46,14 @@ width: 35%;
 .escola-titulo{
     padding: 24px 0;
 }
+
 .estudante-imagem{
     width: 120px ;
 
+}
+
+.estudante-imagem2{
+    width: 120px ;
 }
 
 .estudante-icone{
@@ -57,4 +62,14 @@ width: 35%;
 
 .estudante-div{
     text-align: center;
+}
+
+.estudante-título{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.estudantes-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
